@@ -1,6 +1,6 @@
 import { Component } from 'react';
 
-class Invitation extends Component {
+export default class Invitation extends Component {
 
   render() {
     return (
@@ -11,4 +11,3 @@ class Invitation extends Component {
     )
   }
 }
-export default Invitation;
